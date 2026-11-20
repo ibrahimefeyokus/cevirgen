@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sadece uygulamanın kendi önbelleğindeki çıktı dosyaları paylaşılabilir. -->
+<paths>
+    <cache-path name="out" path="out/"/>
+    <cache-path name="in" path="in/"/>
+    <external-files-path name="downloads" path="Download/"/>
+</paths>
