@@ -2,6 +2,12 @@
 
 İnternete hiç bağlanmadan, tamamen telefonda çalışan bir dosya dönüştürme uygulaması. PDF, Word, fotoğraf, video, ses ve ZIP işlemlerini tek bir yerde toplar.
 
+<p align="center">
+  <img src="docs/ana_sayfa.jpg" alt="Çevirgen ana sayfa" width="260">
+  &nbsp;&nbsp;
+  <img src="docs/ayarlar.jpg" alt="Çevirgen ayarlar ve gizlilik" width="260">
+</p>
+
 ## Özellikler
 
 - **PDF:** birleştirme, sayfalara ayırma, istenen sayfaları seçip sıralama, ilk/son sayfayı silme
